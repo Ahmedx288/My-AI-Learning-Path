@@ -18,7 +18,6 @@ It is widely used today in many applications: when your phone interprets and und
 |--|--|
 |Model Representation I|(12 min)|
 |Model Representation II|(11 min)|
-|Advanced Optimization|(14 min)|
 
 **Module 3: Applications**
 |Lecture|Duration|
