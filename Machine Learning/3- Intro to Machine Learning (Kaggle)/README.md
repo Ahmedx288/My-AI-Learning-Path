@@ -1,4 +1,4 @@
-## Python
+## Intro to Machine Learning
 ### Kaggle
 
 <p align="center">
