@@ -2,7 +2,7 @@
 ### Kaggle
 
 <p align="center">
-  <img src="Kaggle-Python.png" height="300" width="553.5">
+  <img src="Kaggle-Python.png">
 </p>
 
 This course provides a broad introduction to Python Programming Language.
@@ -21,8 +21,7 @@ Topics include:
 
 6. **Strings and Dictionaries**: Working with strings and dictionaries, two fundamental Python data types.
 
-6. **Working with External Libraries**: 
-Imports, operator overloading, and survival tips for venturing into the world of external libraries.
+7. **Working with External Libraries**: Imports, operator overloading, and survival tips for venturing into the world of external libraries.
 
 
 This course covers the key Python skills you’ll need so you can start using Python for data science.
