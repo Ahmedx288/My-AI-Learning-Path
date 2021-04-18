@@ -1,4 +1,4 @@
-# Practical aspects of Deep Learning
+# ML Strategy (1)
 
 Streamline and optimize your ML production workflow by implementing strategic guidelines for goal-setting and applying human-level performance to help define key priorities.
 
