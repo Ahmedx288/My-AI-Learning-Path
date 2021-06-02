@@ -16,4 +16,4 @@ This is a repository for all that I have learned and build so for in my Machine/
 |9|Machine Learning Pipelines with Azure ML Studio|Coursera|Guided Projects|Apr 2, 2021|Apr 2, 2021|3 Hours|
 |10|Structuring Machine Learning Projects|Coursera|Part of a Specialization (3 out of 5)|Apr 14, 2021|Apr 15, 2021|2 Days|
 |11|Convolutional Neural Networks|Coursera|Part of a Specialization (4 out of 5)|Apr 17, 2021|Apr 29, 2021|13 Days|
-|12|Sequence Models|Coursera|Part of a Specialization (5 out of 5)|Soon|Soon||
+|12|Sequence Models|Coursera|Part of a Specialization (5 out of 5)|May 17, 2021|June 1, 2021|16 Days|
