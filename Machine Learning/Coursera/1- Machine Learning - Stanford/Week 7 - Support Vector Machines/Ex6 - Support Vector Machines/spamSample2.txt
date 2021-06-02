@@ -1,8 +1,3 @@
-Best Buy Viagra Generic Online
-
-Viagra 100mg x 60 Pills $125, Free Pills & Reorder Discount, Top Selling 100% Quality & Satisfaction guaranteed!
-
-We accept VISA, Master & E-Check Payments, 90000+ Satisfied Customers!
-http://medphysitcstech.ru
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9165fc292351ae167dc70b2ce7db320b0c66273422ac6633e676d49618b485f
+size 253
