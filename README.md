@@ -5,7 +5,7 @@ This is a repository for all that I have learned and build so for in my Machine/
 
 |#|Course Name|Platform|Type|Start Date|Finish Date|Duration|
 |--|--|--|--|--|--|--|
-|1|Machine Learning - Stanford|Coursera|Single Course|Dec 2 2021|Jan 27, 2021|57 Days|
+|1|Machine Learning - Stanford|Coursera|Single Course|Dec 2 2020|Jan 27, 2021|57 Days|
 |2|Machine Learning Developer By Google|Qwiklabs|Badges|Jan 21 2021|Jan 24, 2021|4 Days|
 |3|Python|Kaggle|Single Course|Jan 27, 2021|Jan 28, 2021|2 Days|
 |4|Intro to Machine Learning|Kaggle|Single Course|Jan 28, 2021|Jan 29, 2021|2 Days|
